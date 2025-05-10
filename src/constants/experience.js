@@ -11,7 +11,7 @@ export const workExperiences = [
     },
     {
       id: 2,
-      name: 'Internship- InternPE',
+      name: 'Internship - InternPE',
       pos: 'Web Development Intern',
       duration: 'March 2023',
       title: "I made FullStack websites using HTML, CSS, JS, React, Node and ExpressJS, MongoDB. It was a remote internship.",
