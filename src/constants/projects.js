@@ -13,7 +13,7 @@ export const myProjects = [
       subdesc:
         'Built as a unique Software-as-a-Service app with Node.js, Tailwind CSS, JavaScript, ReactJS and MongoDB, NewHealth is designed for optimal performance and scalability.',
       href: 'https://github.com/catmac25',
-      texture: '/textures/project/newhealthpage.jpg',
+      texture: '/textures/project/newhealth.mov',
       logo: logo1,
       logoStyle: {
         backgroundColor: '#2A1816',
