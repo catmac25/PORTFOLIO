@@ -6,7 +6,7 @@ export const workExperiences = [
       name: 'Web-A-Thon',
       pos: 'Lead Web Design Developer',
       duration: 'March 2025',
-      title: "Single Day Hackathon,for Web Design. I along with my team members made 'SpaceTrailzz' - a Space Newsletter website for the aliens. TechStack used included HTML, CSS, JS, React, 3D design using Spline",
+      title: " Participated in a single-day web design hackathon, collaborated with a team to design interactive UI components using React.js, Tailwind CSS and integrated immersive 3D elements using Spline and ThreeJS.",
       icon: img1
     },
   ];
